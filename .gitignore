@@ -1,0 +1,12 @@
+adult/
+adult_processed.csv
+*/train_regret/
+*/test_regret/
+.idea/
+__pycache__/
+MNIST/
+cifar/
+.DS_Store
+.ipynb_checkpoints/
+result/
+*.ipynb
